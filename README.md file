@@ -1,0 +1,14 @@
+# Student Marks Calculator
+
+A simple web application that calculates the total marks and average of a student.
+
+## Features
+- Enter marks for 3 subjects
+- Calculate total marks
+- Calculate average marks
+- Simple user interface
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
